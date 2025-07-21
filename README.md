@@ -54,6 +54,7 @@ This dataset holds anonymised information about clinical trials conducted from 1
 * How did you overcome any legal or societal issues?
 
 ## Conclusion
+* Summarise findings of data analysis project
 
 ## Dashboard Design
 * List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.

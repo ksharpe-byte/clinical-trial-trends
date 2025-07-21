@@ -6,26 +6,26 @@
 
 
 ## Dataset Content
-* This dataset holds anonymised information about clinical trials conducted from 1984-2020 by a range of sponsors.
+This dataset holds anonymised information about clinical trials conducted from 1984-2020 by a range of sponsors.
 
 **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/thedevastator/a-quick-overview-of-clinical-trials)
 
-**Total Columns:** 10 (raw dataset)
+**Total Columns:** 10 (raw dataset, excluding index)
 
-### Column Descriptions
+### Column Descriptions:
 
-| Column                       | Description                                                  |
-| ---------------------------- | ------------------------------------------------------------ |
-| **NCT**                      | National Clinical Trial number                               |
-| **Sponsor**                  | Name of the sponsor conducting the clinical trial            |
-| **Title**                    | Title of the clinical trail                                  |
-| **Summary**                  | Brief summary of the clinical trial                          |
-| **Start_Year**               | Year the clinical trial started                              |
-| **Start_Month**              | Month the clinical trial started                             |
-| **Phase**                    | Phase of the clinical trial                                  |
-| **Enrollment**               | Number of participants enrolled in the clinical trial        |
-| **Status**                   | Status of the clinical trial                                 |
-| **Condition**                | Condition being tested in the clinical trial                 |
+| Column Name                      | Description                                                  |
+| -------------------------------- | ------------------------------------------------------------ |
+| **NCT**                          | National Clinical Trial number                               |
+| **Sponsor**                      | Name of the sponsor conducting the clinical trial            |
+| **Title**                        | Title of the clinical trail                                  |
+| **Summary**                      | Brief summary of the clinical trial                          |
+| **Start_Year**                   | Year the clinical trial started                              |
+| **Start_Month**                  | Month the clinical trial started                             |
+| **Phase**                        | Phase of the clinical trial                                  |
+| **Enrollment**                   | Number of participants enrolled in the clinical trial        |
+| **Status**                       | Status of the clinical trial                                 |
+| **Condition**                    | Condition being tested in the clinical trial                 |
 
 
 ## Business Requirements

@@ -1,4 +1,4 @@
-# ![Project Logo](/Users/kabirasharpe/Downloads/ChatGPT Image Jul 21, 2025, 06_13_56 PM.png)
+# ![Project Logo](ChatGPT Image Jul 21, 2025, 06_13_56 PM.png)
 
 # Project Clinical Trial Trends
 

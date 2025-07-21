@@ -1,4 +1,4 @@
-# ![Project Logo](ChatGPT Image Jul 21, 2025, 06_13_56 PM.png)
+# INSERT LOGO
 
 # Project Clinical Trial Trends
 

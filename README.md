@@ -167,6 +167,7 @@ This structure ensured both exploratory depth and visual clarity, with clusterin
 
 ## Conclusion
 *Summary of analysis created with CoPilot assistance*
+
 Our analysis looked at three main questions about clinical trials:
 
 - Are more clinical trials being done for certain conditions over time?
@@ -188,9 +189,10 @@ Clinical trials are increasing, especially in certain health areas and among lar
 * Explain how the dashboard was designed to communicate complex data insights to different audiences. 
 
 ## Unfixed Bugs
-* Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
-* Did you recognise gaps in your knowledge, and how did you address them?
-* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+There are no unfixed present in this project. All bugs, errors and issues encountered in vs code were identified and addressed during the development process. CoPilot was leveraged to provide debugging assistance. 
+
+During EDA gaps in my knowledge relating to thematic text analysis and clustering were identified. These were addressed by revisiting the learning materials in the LMS. Additionally, consulting ChatGPT to clarify terminology and methodology. 
+
 
 ## Development Roadmap
 * What challenges did you face, and what strategies were used to overcome these challenges?

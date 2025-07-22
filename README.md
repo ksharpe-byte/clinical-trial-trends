@@ -40,8 +40,30 @@ The goal of this data analysis project is to explore trends and patterns within 
 By gaining deeper insights into these areas, this analysis aims to inform strategic decision-making, uncover potential gaps in research, and support efforts to allocate resources more effectively in under-researched conditions.
 
 
-## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+## Hypothesis and Validation
+**Hypothesis 1 (Chi-Squared Test):**
+
+Testing to see if the number of clinical trials for a specific condition has increased over the years.
+
+- **Null Hypothesis (H₀):** The number of clinical trials for a specific condition has not increased over the years (no association between Condition and Year).
+
+- **Alternative Hypothesis (H₁):** The number of clinical trials for a specific condition has increased over the years (there is an association between Condition and Year).
+
+**Hypothesis 2 (Mann-Whitney U Test):**
+
+Testing to see if trials with higher enrolled participants are more likely to reach 'Completed' status.
+
+- **Null Hypothesis (H₀):** There is no difference in the number of enrolled participants between trials with 'Completed' status over other statuses.
+
+- **Alternative Hypothesis (H₁):** Trials with "Completed" status have a higher number of enrolled participants compared to other statuses.
+
+**Hypothesis 3 (Chi-Squared Test):**
+
+Testing to see if the number of clinical trials is independent of the sponsor
+
+- **Null Hypothesis (H₀):** The number of clinical trials is independent of the sponsor (no association between Sponsor and Condition_grouped).
+
+- **Alternative Hypothesis (H₁):** The number of clinical trials is not independent of the sponsor (there is an association between Sponsor and Condition_grouped).
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.

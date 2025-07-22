@@ -80,8 +80,14 @@ p-value: 0.0
 ## Project Plan
 - Source the dataset from a public domain (Kaggle) & decide a random sample of 10,000 will be appropriate to carry out the analysis in line with the project guidelines. As the dataset consists of unique entries regarding individual clinical trials, reducing the dataset size won't affect the integirity of the analysis. 
 - Create a Kanban project board to detail and track all tasks and milestones for the project.
-- Ideate hypotheses to test and validate
-- Carry out ETL and EDA on dataset prepare the dataset
+- Ideate hypotheses to be tested and validated.
+- Carry out ETL and EDA on the dataset using Python in Jupyter Notebooks. To prepare the dataset for analysis and visualisation (including feature engineering, thematic analysis and clustering(use of Gen AI to assist)).
+- Create visualisations in Jupyter Notebook using Seaborn, Matplotlib and Plotly.
+- Carry out statistical testing in Jupyter Notebook.
+- Draw insights and conclusions from analysis.
+- Build dashboard in Tableau for data storytelling.
+- Evaluate project from ideation phase to dashboard creation.
+
 * Outline the high-level steps taken for the analysis.
 * How was the data managed throughout the collection, processing, analysis and interpretation steps?
 * Why did you choose the research methodologies you used?

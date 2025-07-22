@@ -197,11 +197,22 @@ During EDA gaps in my knowledge relating to thematic text analysis and clusterin
 ## Development Roadmap
 - I faced issues with vs code in both the Jupyter Notebook and Terminal when installing packages, importing some libraries etc. These challenges were overcome with CoPilot assistance and manually troubleshooting commands and lines of code.
 
-- I'd like to learn expand on my deployment skills such as, deploying my next dashboard in a Streamlit app. 
+- I'd like to expand on my deployment skills such as, deploying my next dashboard in a Streamlit app. 
 
 
 ## Main Data Analysis Libraries
-* Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
+* Here are the main data analysis libraries used in the project and how they were used:
+
+| Library             | Typical Category                   | What It's Used For                                             |
+|-----------------------------|------------------------------------|---------------------------------------------------------------|
+| **pandas**                  | ETL, EDA, Main Data Analysis       | Data loading, cleaning, manipulation, summarization           |
+| **numpy**                   | ETL, EDA, Main Data Analysis       | Numerical computing, array operations, mathematical functions |
+| **matplotlib.pyplot**       | Visualization, EDA                 | Basic plotting and visualization                              |
+| **seaborn**                 | Visualization, EDA                 | Statistical and advanced data visualization                   |
+| **plotly**  | Visualization, EDA       | Interactive, web-based visualizations                         |
+| **scipy.stats**             | Statistical Analysis, EDA          | Statistical tests and hypothesis testing                      |
+| **scikit-learn** | Machine Learning, Feature Engineering, EDA | Preprocessing, scaling, clustering, modeling, dimensionality reduction, text analysis |
+| **Tableau**                 | Visualization, Reporting           | Interactive dashboards and advanced data visualization (external tool, not a Python library) |
 
 
 ## Credits 

@@ -92,15 +92,16 @@ A mixed-methods approach was used to explore clinical trial trends. A random sam
 
 Python was used for data cleaning, exploratory analysis, and statistical testing. Thematic analysis was applied to trial summaries using TF-IDF and word clouds to uncover common research focuses by condition groups. Hypotheses were tested using appropriate statistical methods, and clustering was performed to group same/similar conditions as 800+ unique entires of same/similar conditions were identified within the dataset.
 
-Insights were visualized using Python and Tableau to support clear, accessible storytelling.
-
-
-* Outline the high-level steps taken for the analysis.
-* How was the data managed throughout the collection, processing, analysis and interpretation steps?
-* Why did you choose the research methodologies you used?
+Insights were visualised using Python and Tableau to support clear, accessible storytelling.
 
 ## The rationale to map the business requirements to the Data Visualisations
-* List your business requirements and a rationale to map them to the Data Visualisations
+| Business Requirement             | Visualisation & Rationale                                    |
+| -------------------------------- | ------------------------------------------------------------ |
+| Identify the most active sponsors in Clinical Trials                        | **Bar Chart** 	A ranked bar chart clearly highlights which sponsors conduct the most trials, allowing for easy comparison and identification of key players in the industry.                          |
+| Uncover key factors influencing trial completion (e.g. enrolment)                     | **Box Plot**          | These plots help explore whether higher enrolment correlates with successful completion, revealing operational or planning factors that affect outcomes.
+| Spot trends in trial activity over time                        | **Line Chart**                                  | This shows how research activity has evolved, helping identify periods of growth or stagnation in clinical research.
+| Uncover common research themes within conditions                     | **Word Clouds**                          | Word clouds provide a thematic overview of trial summaries, revealing repeated focus areas or under-explored aspects in relation to specific conditions.
+
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.

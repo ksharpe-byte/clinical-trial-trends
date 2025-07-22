@@ -158,8 +158,12 @@ This structure ensured both exploratory depth and visual clarity, with clusterin
 - Code generation for some of the plots in Jupyter Notebook.
 
 ## Ethical considerations
-* Were there any data privacy, bias or fairness issues with the data?
-* How did you overcome any legal or societal issues?
+**Data Privacy, Bias & Fairness**
+- The dataset did not contain any personally identifiable information, so no anonymisation was required.
+- Clustering the data could potentially under-represent certain conditions in the visualisations. To minimise bias, the top 20 most frequently occurring conditions in the dataset were identified and used for condition mapping.
+
+**Legal Issues**
+- The dataset used in this project is publicly available and licensed to permit sharing, adaptation, and commercial use, provided that appropriate credit is given. Full attribution has been maintained throughout, ensuring compliance with the dataset’s licensing terms and ethical standards.
 
 ## Conclusion
 * Summarise findings of data analysis project

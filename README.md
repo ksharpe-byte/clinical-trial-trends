@@ -225,9 +225,9 @@ During EDA gaps in my knowledge relating to thematic text analysis and clusterin
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Dataset is from [Kaggle](https://www.kaggle.com/datasets/thedevastator/a-quick-overview-of-clinical-trials), Kaggle author sourced it from [Aero Data Lab](https://www.aerodatalab.org/lander)
+- GitHub repository template is from [Code Institute](https://github.com/Code-Institute-Org/data-analytics-template/tree/main)
+- README.md template is from [Code Institute](https://github.com/Code-Institute-Solutions/da-README-template)
 
 ### Media
 

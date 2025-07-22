@@ -41,6 +41,8 @@ By gaining deeper insights into these areas, this analysis aims to inform strate
 
 
 ## Hypothesis and Validation
+The Clinical Trials dataset was loaded in VS code, cleaned, and preprocessed to handle all outliers, missing and duplicate values, along with converting data types ready for hypothesis testing.
+
 ### **Hypothesis 1 (Chi-Squared Test):**
 
 Testing to see if the number of clinical trials for a specific condition has increased over the years.
@@ -48,6 +50,9 @@ Testing to see if the number of clinical trials for a specific condition has inc
 - **Null Hypothesis (H₀):** The number of clinical trials for a specific condition has not increased over the years (no association between Condition and Year).
 
 - **Alternative Hypothesis (H₁):** The number of clinical trials for a specific condition has increased over the years (there is an association between Condition and Year).
+
+p-value: 0.000000000000000535
+- Reject the null hypothesis: There is an association between Condition and Year.
 
 ### **Hypothesis 2 (Mann-Whitney U Test):**
 
@@ -57,6 +62,9 @@ Testing to see if trials with higher enrolled participants are more likely to re
 
 - **Alternative Hypothesis (H₁):** Trials with "Completed" status have a higher number of enrolled participants compared to other statuses.
 
+p-value: 0.000000000000018562410266235526
+- Reject the null hypothesis: Thrials with 'Completed' status have higher enrollment.
+
 ### **Hypothesis 3 (Chi-Squared Test):**
 
 Testing to see if the number of clinical trials is independent of the sponsor
@@ -64,6 +72,10 @@ Testing to see if the number of clinical trials is independent of the sponsor
 - **Null Hypothesis (H₀):** The number of clinical trials is independent of the sponsor (no association between Sponsor and Condition_grouped).
 
 - **Alternative Hypothesis (H₁):** The number of clinical trials is not independent of the sponsor (there is an association between Sponsor and Condition_grouped).
+
+p-value: 0.0
+- Reject the null hypothesis: The number of clinical trials is not independent of the sponsor. 
+- Hypothesis 3 visualised with a bar plot to display to distribution across sponsors.
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.

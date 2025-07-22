@@ -29,7 +29,15 @@ This dataset holds anonymised information about clinical trials conducted from 1
 
 
 ## Business Requirements
-* Describe your business requirements
+The goal of this data analysis project is to explore trends and patterns within Clinical Trials conducted over the years. The primary objectives are:
+
+- To identify which sponsors are most active in conducting Clinical Trials.
+
+- To uncover key factors that influence the successful completion of Clinical Trials, with a focus on enrolment numbers.
+
+- To highlight medical conditions that have a high volume of associated trials.
+
+By gaining deeper insights into these areas, this analysis aims to inform strategic decision-making, uncover potential gaps in research, and support efforts to allocate resources more effectively in under-researched conditions.
 
 
 ## Hypothesis and how to validate?

@@ -88,7 +88,11 @@ p-value: 0.0
 - Build dashboard in Tableau for data storytelling.
 - Evaluate project from ideation phase to dashboard creation.
 
-This project adopted a mixed-methods approach, combining both quantitative and qualitative analysis techniques to explore patterns and trends in clinical trials over time. 
+A mixed-methods approach was used to explore clinical trial trends. A random sample of 10,000 records was analysed to balance performance with data integrity.
+
+Python was used for data cleaning, exploratory analysis, and statistical testing. Thematic analysis was applied to trial summaries using TF-IDF and word clouds to uncover common research focuses by condition groups. Hypotheses were tested using appropriate statistical methods, and clustering was performed to group same/similar conditions as 800+ unique entires of same/similar conditions were identified within the dataset.
+
+Insights were visualized using Python and Tableau to support clear, accessible storytelling.
 
 
 * Outline the high-level steps taken for the analysis.

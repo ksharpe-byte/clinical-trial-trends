@@ -203,15 +203,15 @@ During EDA gaps in my knowledge relating to thematic text analysis and clusterin
 ## Main Data Analysis Libraries
 * Here are the main data analysis libraries used in the project and how they were used:
 
-| Library             | Typical Category                   | What It's Used For                                             |
+| Library             | Typical Category                   | How It Was Used For                                             |
 |-----------------------------|------------------------------------|---------------------------------------------------------------|
-| **pandas**                  | ETL, EDA, Main Data Analysis       | Data loading, cleaning, manipulation, summarization           |
+| **pandas**                  | ETL, EDA, Main Data Analysis       | Data loading, cleaning, manipulation, summarisation           |
 | **numpy**                   | ETL, EDA, Main Data Analysis       | Numerical computing, array operations, mathematical functions |
 | **matplotlib.pyplot**       | Visualization, EDA                 | Basic plotting and visualization                              |
 | **seaborn**                 | Visualization, EDA                 | Statistical and advanced data visualization                   |
 | **plotly**  | Visualization, EDA       | Interactive, web-based visualizations                         |
 | **scipy.stats**             | Statistical Analysis, EDA          | Statistical tests and hypothesis testing                      |
-| **scikit-learn** | Machine Learning, Feature Engineering, EDA | Preprocessing, scaling, clustering, modeling, dimensionality reduction, text analysis |
+| **scikit-learn** | Machine Learning, Feature Engineering, EDA | Preprocessing, clustering, modeling, text analysis |
 | **Tableau**                 | Visualization, Reporting           | Interactive dashboards and advanced data visualization (external tool, not a Python library) |
 
 

@@ -104,10 +104,58 @@ Insights were visualised using Python and Tableau to support clear, accessible s
 
 
 ## Analysis techniques used
-* List the data analysis methods used and explain limitations or alternative approaches.
-* How did you structure the data analysis techniques. Justify your response.
-* Did the data limit you, and did you use an alternative approach to meet these challenges?
-* How did you use generative AI tools to help with ideation, design thinking and code optimisation?
+### **Data Analysis Methods Used:**
+- **Exploratory Data Analysis (EDA):** Identified trends in enrolment, completion status, and most common conditions.
+
+- **TF-IDF Vectorisation + DBSCAN Clustering:** Grouped semantically similar medical conditions based on their text descriptions.
+
+- **Text Cleaning and Keyword Mapping:** Created custom mappings to categorise trials into broader condition groups.
+
+- **Cosine Similarity Analysis:** Measured closeness between condition terms.
+
+- **Statistical Testing (e.g. Chi-Squared, Mann-Whitney U):** To validate hypotheses (e.g. enrolment vs completion).
+
+- **Data Visualisation (Tableau, Plotly, Matplotlib, Seaborn):** Translated trends into clear visuals aligned with business goals.
+
+**Limitations:**
+- **DBSCAN Sensitivity:** DBSCAN clustering depends heavily on eps and min_samples, which can lead to noise or fragmented clusters.
+**Alternative:** Hierarchical clustering or HDBSCAN could adapt better to varying densities.
+
+- **TF-IDF Simplicity:** Doesn’t capture deeper semantic meaning of conditions.
+**Alternative:** Use embeddings (e.g. ClinicalBERT or Sentence Transformers) for richer text representation.
+
+- **Manual Mapping:** While keyword-based condition grouping is practical, it's not scalable.
+**Alternative:** Use unsupervised topic modeling (LDA) or zero-shot classification to automate grouping.
+
+### **Structure of Data Analysis Techniques:**
+- **Data Cleaning & Preprocessing:** Removed inconsistencies and standardised condition names.
+
+- **TF-IDF + Cosine Similarity:** Captured textual patterns across condition labels.
+
+- **Clustering (DBSCAN):** Uncovered underlying groupings of related conditions without predefining the number of clusters.
+
+- **Manual Grouping:** Mapped top conditions to simplified categories to support visualisation and interpretation.
+
+- **EDA & Visualisation:** Used condition clusters and categories to uncover trends in enrolment and trial activity.
+
+This structure ensured both exploratory depth and visual clarity, with clustering helping reveal hidden structure in messy textual data.
+
+### **Data Limitations:**
+- The 'Condition' field was highly inconsistent and noisy, with overlaps and synonyms. So text cleaning, TF-IDF vectorisation, and cosine similarity were used to better align similar terms.
+
+- No labels existed to validate cluster quality. Conditions were manually validated and grouped, post-clustering to align with known medical categories.
+
+- DBSCAN requires tuning and doesn't always form intuitive groups. Combined clustering results with a domain-informed keyword mapping for better interpretability.
+
+### **Generative AI uses (CoPilot & ChatGPT):**
+**Ideation & Design**
+- Used GenAI to brainstorm visualisation ideas in line with the hypotheses. 
+- Assisted in finding an appropriate clustering technique for short, sparse text fields like condition names.
+
+**Code Optimisation**
+- Used AI to debug issues in code, distance matrices and clipping strategies.
+- Refactored preprocessing and clustering code.
+- Code generation for some of the plots in Jupyter Notebook.
 
 ## Ethical considerations
 * Were there any data privacy, bias or fairness issues with the data?

@@ -157,7 +157,7 @@ This structure ensured both exploratory depth and visual clarity, with clusterin
 - Refactored preprocessing and clustering code.
 - Code generation for some of the plots in Jupyter Notebook.
 
-## Ethical considerations
+## Ethical Considerations
 **Data Privacy, Bias & Fairness**
 - The dataset did not contain any personally identifiable information, so no anonymisation was required.
 - Clustering the data could potentially under-represent certain conditions in the visualisations. To minimise bias, the top 20 most frequently occurring conditions in the dataset were identified and used for condition mapping.
@@ -166,7 +166,20 @@ This structure ensured both exploratory depth and visual clarity, with clusterin
 - The dataset used in this project is publicly available and licensed to permit sharing, adaptation, and commercial use, provided that appropriate credit is given. Full attribution has been maintained throughout, ensuring compliance with the dataset’s licensing terms and ethical standards.
 
 ## Conclusion
-* Summarise findings of data analysis project
+*Summary of analysis created with CoPilot assistance*
+Our analysis looked at three main questions about clinical trials:
+
+- Are more clinical trials being done for certain conditions over time?
+Yes—there has been a clear and significant increase, especially for conditions like breast cancer and Alzheimer’s disease. This likely reflects growing research interest and advances in these areas.
+
+- Do trials with more participants finish more often?
+Yes—trials with higher enrollment are much more likely to be completed. Larger studies may get more support and have a better chance of reaching their goals.
+
+- Does the number of trials depend on who is funding them?
+Yes—some large companies, like GSK, Novartis, and Pfizer, sponsor many more trials than others. This means clinical research is often led by a small number of major sponsors.
+
+In summary:
+Clinical trials are increasing, especially in certain health areas and among larger sponsors. Trials with more participants are more likely to finish. To improve research, it would help to support a wider range of sponsors and conditions.
 
 ## Dashboard Design
 * List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
@@ -182,20 +195,6 @@ This structure ensured both exploratory depth and visual clarity, with clusterin
 ## Development Roadmap
 * What challenges did you face, and what strategies were used to overcome these challenges?
 * What new skills or tools do you plan to learn next based on your project experience? 
-
-## Deployment
-### Heroku
-
-* The App live link is: https://YOUR_APP_NAME.herokuapp.com/ 
-* Set the runtime.txt Python version to a [Heroku-20](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
-* The project was deployed to Heroku using the following steps.
-
-1. Log in to Heroku and create an App
-2. From the Deploy tab, select GitHub as the deployment method.
-3. Select your repository name and click Search. Once it is found, click Connect.
-4. Select the branch you want to deploy, then click Deploy Branch.
-5. The deployment process should happen smoothly if all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
-6. If the slug size is too large then add large files not required for the app to the .slugignore file.
 
 
 ## Main Data Analysis Libraries

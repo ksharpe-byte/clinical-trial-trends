@@ -189,14 +189,15 @@ Clinical trials are increasing, especially in certain health areas and among lar
 * Explain how the dashboard was designed to communicate complex data insights to different audiences. 
 
 ## Unfixed Bugs
-There are no unfixed present in this project. All bugs, errors and issues encountered in vs code were identified and addressed during the development process. CoPilot was leveraged to provide debugging assistance. 
+There are no unfixed bugs present in this project. All bugs, errors and issues encountered in vs code were identified and addressed during the development process. CoPilot was leveraged to provide debugging assistance. 
 
 During EDA gaps in my knowledge relating to thematic text analysis and clustering were identified. These were addressed by revisiting the learning materials in the LMS. Additionally, consulting ChatGPT to clarify terminology and methodology. 
 
 
 ## Development Roadmap
-* What challenges did you face, and what strategies were used to overcome these challenges?
-* What new skills or tools do you plan to learn next based on your project experience? 
+- I faced issues with vs code in both the Jupyter Notebook and Terminal when installing packages, importing some libraries etc. These challenges were overcome with CoPilot assistance and manually troubleshooting commands and lines of code.
+
+- I'd like to learn expand on my deployment skills such as, deploying my next dashboard in a Streamlit app. 
 
 
 ## Main Data Analysis Libraries

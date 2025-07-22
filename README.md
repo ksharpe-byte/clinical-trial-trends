@@ -203,7 +203,7 @@ During EDA gaps in my knowledge relating to thematic text analysis and clusterin
 ## Main Data Analysis Libraries
 * Here are the main data analysis libraries used in the project and how they were used:
 
-| Library             | Typical Category                   | How It Was Used For                                             |
+| Library             | Analysis Category                   | How It Was Used                                              |
 |-----------------------------|------------------------------------|---------------------------------------------------------------|
 | **pandas**                  | ETL, EDA, Main Data Analysis       | Data loading, cleaning, manipulation, summarisation           |
 | **numpy**                   | ETL, EDA, Main Data Analysis       | Numerical computing, array operations, mathematical functions |
@@ -217,8 +217,11 @@ During EDA gaps in my knowledge relating to thematic text analysis and clusterin
 
 ## Credits 
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-* You can break the credits section up into Content and Media, depending on what you have included in your project. 
+- ChatGPT for clarification of terminology and methodology. 
+- Microsoft CoPilot for debugging assistance, code creation, code assistance, summary of findings and clarity in project ideation.
+- Code Institute's LMS for clarification on thematic analysis and how it should be approached.
+- [Tableau Forum](https://community.tableau.com/s/question/0D54T00000C69PXSAZ/calculating-skewness-and-kurtosis-for-a-distribution-in-tableau-as-formula) to improve my understanding in calculating Skewness in Tableau for visualisations.
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) to help me format my README.md file.
 
 ### Content 
 

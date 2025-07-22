@@ -41,7 +41,7 @@ By gaining deeper insights into these areas, this analysis aims to inform strate
 
 
 ## Hypothesis and Validation
-**Hypothesis 1 (Chi-Squared Test):**
+### **Hypothesis 1 (Chi-Squared Test):**
 
 Testing to see if the number of clinical trials for a specific condition has increased over the years.
 
@@ -49,7 +49,7 @@ Testing to see if the number of clinical trials for a specific condition has inc
 
 - **Alternative Hypothesis (H₁):** The number of clinical trials for a specific condition has increased over the years (there is an association between Condition and Year).
 
-**Hypothesis 2 (Mann-Whitney U Test):**
+### **Hypothesis 2 (Mann-Whitney U Test):**
 
 Testing to see if trials with higher enrolled participants are more likely to reach 'Completed' status.
 
@@ -57,7 +57,7 @@ Testing to see if trials with higher enrolled participants are more likely to re
 
 - **Alternative Hypothesis (H₁):** Trials with "Completed" status have a higher number of enrolled participants compared to other statuses.
 
-**Hypothesis 3 (Chi-Squared Test):**
+### **Hypothesis 3 (Chi-Squared Test):**
 
 Testing to see if the number of clinical trials is independent of the sponsor
 

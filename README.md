@@ -194,6 +194,7 @@ This dashboard was dsigned with non-technical users in mind, to clearly convey t
 ### Tableau Dashboard Pages
 **Distribution of trials per year**
 
+![Viz 1](/Users/kabirasharpe/Downloads/Untitled design.jpg)
 **Enrolment by Completion Status**
 
 **Completion Probability by Enrolment**

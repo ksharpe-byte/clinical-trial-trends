@@ -191,6 +191,15 @@ This dashboard was dsigned with non-technical users in mind, to clearly convey t
 
 [Tableau Dashboard Link](https://public.tableau.com/views/ClinicalTrialTrends/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### Tableau Dashboard Pages
+**Distribution of trials per year**
+
+**Enrolment by Completion Status**
+
+**Completion Probability by Enrolment**
+
+**Trials per Sponsor**
+
 ## Unfixed Bugs
 There are no unfixed bugs present in this project. All bugs, errors and issues encountered in vs code were identified and addressed during the development process. CoPilot was leveraged to provide debugging assistance. 
 

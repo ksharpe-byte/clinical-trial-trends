@@ -97,10 +97,10 @@ Insights were visualised using Python and Tableau to support clear, accessible s
 ## The rationale to map the business requirements to the Data Visualisations
 | Business Requirement             | Visualisation & Rationale                                    |
 | -------------------------------- | ------------------------------------------------------------ |
-| Identify the most active sponsors in Clinical Trials                        | **Bar Chart** 	A ranked bar chart clearly highlights which sponsors conduct the most trials, allowing for easy comparison and identification of key players in the industry.                          |
-| Uncover key factors influencing trial completion (e.g. enrolment)                     | **Box Plot** These plots help explore whether higher enrolment correlates with successful completion, revealing operational or planning factors that affect outcomes.         | 
-| Spot trends in trial activity over time                        | **Line Chart** This shows how research activity has evolved, helping identify periods of growth or stagnation in clinical research.                                 | 
-| Uncover common research themes within conditions                     | **Word Clouds** Word clouds provide a thematic overview of trial summaries, revealing repeated focus areas or under-explored aspects in relation to specific conditions.                         | 
+| Identify the most active sponsors in Clinical Trials                        | **Bar Chart:** 	A ranked bar chart clearly highlights which sponsors conduct the most trials, allowing for easy comparison and identification of key players in the industry.                          |
+| Uncover key factors influencing trial completion (e.g. enrolment)                     | **Stacked Bar Chart:** A stacked bar chart displays the distribution of trial completion status within each enrolment bin. This visualisation makes it easy to compare the proportion of completed and non-completed trials across different enrolment groups, helping uncover patterns and key factors affecting outcomes.         | 
+| Spot trends in trial activity over time                        | **Line Chart:** This shows how research activity has evolved, helping identify periods of growth or stagnation in clinical research.                                 | 
+| Uncover common research themes within conditions                     | **Word Clouds:** Word clouds provide a thematic overview of trial summaries, revealing repeated focus areas or under-explored aspects in relation to specific conditions.                         | 
 
 
 ## Analysis techniques used

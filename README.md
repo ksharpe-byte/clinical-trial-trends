@@ -192,16 +192,16 @@ This dashboard was dsigned with non-technical users in mind, to clearly convey t
 [Tableau Dashboard Link](https://public.tableau.com/views/ClinicalTrialTrends/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Tableau Dashboard Pages
-**Distribution of trials per year**
+**Distribution of trials per year**(Line Chart)
 ![alt text](assests/trials_per_year.png)
 
-**Enrolment by Completion Status**
+**Enrolment by Completion Status**(Stacked Bar Chart)
 ![alt text](assests/enrolment_completion.png)
 
-**Completion Probability by Enrolment**
+**Completion Probability by Enrolment**(Scatter Plot)
 ![alt text](assests/probability.png)
 
-**Trials per Sponsor**
+**Trials per Sponsor**(Bar Chart)
 ![alt text](assests/trials_per_sponsor.png)
 
 ## Unfixed Bugs
@@ -238,6 +238,7 @@ During EDA gaps in my knowledge relating to thematic text analysis and clusterin
 - Code Institute's LMS for clarification on thematic analysis and how it should be approached.
 - [Tableau Forum](https://community.tableau.com/s/question/0D54T00000C69PXSAZ/calculating-skewness-and-kurtosis-for-a-distribution-in-tableau-as-formula) to improve my understanding in calculating Skewness in Tableau for visualisations.
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) to help me format my README.md file.
+- [HTMLcolourcodes](https://htmlcolorcodes.com/color-picker/) to assist in finding complementary colours when selecting my the colour palettes.
 
 ### Content 
 
@@ -252,6 +253,6 @@ During EDA gaps in my knowledge relating to thematic text analysis and clusterin
 
 
 
-## Acknowledgements (optional)
-* Thank the people who provided support through this project.
+## Acknowledgements 
+- I'd like to thank Code Insititute team for delivering an excellent bootcamp & an environment to thrive and hit my learning goals. With a special mention thanks to Emma Lamont for providing fantatsic support throughout.
 

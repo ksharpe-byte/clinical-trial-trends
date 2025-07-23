@@ -1,6 +1,6 @@
-# INSERT LOGO
-
 # Project Clinical Trial Trends
+
+![alt text](assests/ChatGPT Image Jul 21, 2025, 06_13_56 PM.png)
 
 **Project Clinical Trial Trends** is a comprehensive data analysis tool to explore historical clinical trial trends over the years. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
 

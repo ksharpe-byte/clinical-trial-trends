@@ -193,12 +193,16 @@ This dashboard was dsigned with non-technical users in mind, to clearly convey t
 
 ### Tableau Dashboard Pages
 **Distribution of trials per year**
-![alt text](</Users/kabirasharpe/Downloads/Untitled design.jpg>)
+![alt text](assests/trials_per_year.png)
+
 **Enrolment by Completion Status**
+![alt text](assests/enrolment_completion.png)
 
 **Completion Probability by Enrolment**
+![alt text](assests/probability.png)
 
 **Trials per Sponsor**
+![alt text](assests/trials_per_sponsor.png)
 
 ## Unfixed Bugs
 There are no unfixed bugs present in this project. All bugs, errors and issues encountered in vs code were identified and addressed during the development process. CoPilot was leveraged to provide debugging assistance. 

@@ -194,11 +194,21 @@ This dashboard was dsigned with non-technical users in mind, to clearly convey t
 **Distribution of trials per year**(Line Chart)
 ![alt text](assets/trials_per_year.png)
 
+**Why Skewness was calculated in the Line Chart:**
+
+Deeper Insights in Dashboards: By calculating and visualising skewness, you can quickly communicate the distribution’s characteristics to stakeholders.
+
+Interactive Exploration: The skewness values were also added to tooltips in the Tableau dashboards, making it easier for technical users to understand the nature of the data at a glance.
+
 **Enrolment by Completion Status**(Stacked Bar Chart)
 ![alt text](assets/enrolment_completion.png)
 
 **Completion Probability by Enrolment**(Scatter Plot)
 ![alt text](assets/probability.png)
+
+**Why the p-value was calculated in the Scatter Plot**
+
+Calculating and displaying the p-value for a trend line in a Tableau scatter plot helps the audience determine whether the observed relationship is statistically significant, making the analysis more robust, reliable, and informative.
 
 **Trials per Sponsor**(Bar Chart)
 ![alt text](assets/trials_per_sponsor.png)

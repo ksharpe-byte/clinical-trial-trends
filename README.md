@@ -1,7 +1,6 @@
 # Project Clinical Trial Trends
 
-![alt text](assests/updated_logo.png)
-
+![alt text](assets/updated_logo.png)
 **Project Clinical Trial Trends** is a comprehensive data analysis tool to explore historical clinical trial trends over the years. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
 
 
@@ -193,16 +192,16 @@ This dashboard was dsigned with non-technical users in mind, to clearly convey t
 
 ### Tableau Dashboard Pages
 **Distribution of trials per year**(Line Chart)
-![alt text](assests/trials_per_year.png)
+![alt text](assets/trials_per_year.png)
 
 **Enrolment by Completion Status**(Stacked Bar Chart)
-![alt text](assests/enrolment_completion.png)
+![alt text](assets/enrolment_completion.png)
 
 **Completion Probability by Enrolment**(Scatter Plot)
-![alt text](assests/probability.png)
+![alt text](assets/probability.png)
 
 **Trials per Sponsor**(Bar Chart)
-![alt text](assests/trials_per_sponsor.png)
+![alt text](assets/trials_per_sponsor.png)
 
 ## Unfixed Bugs
 There are no unfixed bugs present in this project. All bugs, errors and issues encountered in vs code were identified and addressed during the development process. CoPilot was leveraged to provide debugging assistance. 

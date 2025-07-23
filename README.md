@@ -207,12 +207,12 @@ During EDA gaps in my knowledge relating to thematic text analysis and clusterin
 |-----------------------------|------------------------------------|---------------------------------------------------------------|
 | **pandas**                  | ETL, EDA, Main Data Analysis       | Data loading, cleaning, manipulation, summarisation           |
 | **numpy**                   | ETL, EDA, Main Data Analysis       | Numerical computing, array operations, mathematical functions |
-| **matplotlib.pyplot**       | Visualization, EDA                 | Basic plotting and visualization                              |
-| **seaborn**                 | Visualization, EDA                 | Statistical and advanced data visualization                   |
-| **plotly**  | Visualization, EDA       | Interactive, web-based visualizations                         |
+| **matplotlib.pyplot**       | Visualisation, EDA                 | Basic plotting and visualisation                              |
+| **seaborn**                 | Visualisation, EDA                 | Statistical and advanced data visualisation                   |
+| **plotly**  | Visualisation, EDA       | Interactive, web-based visualisations                         |
 | **scipy.stats**             | Statistical Analysis, EDA          | Statistical tests and hypothesis testing                      |
 | **scikit-learn** | Machine Learning, Feature Engineering, EDA | Preprocessing, clustering, modeling, text analysis |
-| **Tableau**                 | Visualization, Reporting           | Interactive dashboards and advanced data visualization (external tool, not a Python library) |
+| **Tableau**                 | Visualisation, Reporting           | Interactive dashboards and advanced data visualisation (external tool, not a Python library) |
 
 
 ## Credits 

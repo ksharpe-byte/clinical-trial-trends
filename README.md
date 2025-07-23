@@ -183,10 +183,13 @@ In summary:
 Clinical trials are increasing, especially in certain health areas and among larger sponsors. Trials with more participants are more likely to finish. To improve research, it would help to support a wider range of sponsors and conditions.
 
 ## Dashboard Design
-* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
-* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project you were confident you would use a given plot to display an insight but subsequently you used another plot type).
-* How were data insights communicated to technical and non-technical audiences?
-* Explain how the dashboard was designed to communicate complex data insights to different audiences. 
+A dashboard was created on Tableau to provide a comprehensive visualisation of Clinical Trial trends over the years. With a focus on enrollment numbers, sponsors, completion status and the overall distribution of Clinical Trials from 1984-2020.
+
+During development a BoxPlot was initially used to explore whether higher enrolment correlates with succesful completion of Clinical Trials. However, a BoxPlot wasn't suitable to convey the relationship to a non-technical audience, so a Stacked Bar Chart was used instead.
+
+This dashboard was dsigned with non-technical users in mind, to clearly convey the patterns within this Clinical Trials dataset. The dashboard includes a range of features such as filters to allow for user customisation and clearly labelled visualisations, to ensure inclusivity and ease of use for both technical and non-technical audiences.
+
+[Tableau Dashboard Link](https://public.tableau.com/views/ClinicalTrialTrends/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Unfixed Bugs
 There are no unfixed bugs present in this project. All bugs, errors and issues encountered in vs code were identified and addressed during the development process. CoPilot was leveraged to provide debugging assistance. 

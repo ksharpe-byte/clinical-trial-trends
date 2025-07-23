@@ -180,7 +180,7 @@ Yes—trials with higher enrollment are much more likely to be completed. Larger
 Yes—some large companies, like GSK, Novartis, and Pfizer, sponsor many more trials than others. This means clinical research is often led by a small number of major sponsors.
 
 In summary:
-Clinical trials are increasing, especially in certain health areas and among larger sponsors. Trials with more participants are more likely to finish. To improve research, it would help to support a wider range of sponsors and conditions.
+Clinical trials are increasing, especially in certain health areas and among larger sponsors. Trials with more participants are more likely to finish. To improve research, it would help to support a wider range of sponsors and conditions. In healthcare data analytics allows a depper understanding of patterns, to help optimise resource allocation. For example, the time series visualisation in Tableau on the distribution of trials per year, can be used to imrpove resource planning and allocation (e.g. staffing, facilities etc.). Additionally, forecasting future demand and spotting previous growth numbers. 
 
 ## Dashboard Design
 A dashboard was created on Tableau to provide a comprehensive visualisation of Clinical Trial trends over the years. With a focus on enrollment numbers, sponsors, completion status and the overall distribution of Clinical Trials from 1984-2020.
